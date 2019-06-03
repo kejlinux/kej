@@ -4,3 +4,4 @@ this is third line
 branch slave test
 branch on dev
 branch on dev
+stash on slave
